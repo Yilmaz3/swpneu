@@ -1,0 +1,146 @@
+body {
+    background-color:rgb(207, 207, 219);
+    text-align: center;
+}
+
+
+.rd-navbar-nav {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.rd-nav-item {
+    margin-right: 10px;
+}
+
+.rd-nav-link {
+    text-decoration: none;
+    color: #000;
+}
+.rd-navbar-nav {
+    display: flex;
+    justify-content: center; /* Zentriert die Elemente horizontal */
+    align-items: center; /* Zentriert die Elemente vertikal */
+    list-style: none;
+    padding: 0;
+}
+
+.rd-nav-item {
+    margin-right: 10px;
+}
+
+.rd-nav-link {
+    text-decoration: none;
+    color: #000;
+}
+
+  
+
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-container {
+        background-color: rgb(36, 36, 37);
+        padding: 10px;
+        border-radius: 5px;
+        width: 100vw;
+        margin-left: calc(-50vw + 50%);
+    }
+
+    .rd-navbar-nav {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .rd-nav-item {
+        margin-right: 15px;
+    }
+
+    .nav-separator {
+        margin: 0 5px;
+    }
+
+    .rd-nav-link {
+        font-size: 18px;
+        color: white;
+        text-decoration: none;
+    }
+
+
+.container {
+    background-color: gray;
+    padding: 20px;
+}
+
+.text {
+    float: left;
+    width: 50%;
+}
+
+.image {
+    float: right;
+    width: 50%;
+}
+
+
+
+
+
+.container1 {
+    background-color: rgb(116, 13, 13);
+    padding: 20px;
+}
+
+.text {
+    float: left;
+    width: 50%;
+}
+
+.video {
+    float: right;
+    width: 50%;
+}
+
+.image {
+    float: right;
+    width: 50%;
+}
+
+
+.container {
+    background-color: rgb(69, 67, 67);
+    padding: 20px;
+}
+
+.container3 {
+    background-color: rgb(160, 43, 113);
+    padding: 20px;
+    
+}
+
+
+
+.container4 {
+    background-color: rgb(38, 5, 137);
+    padding: 20px;
+    
+}
+
+.container5 {
+    background-color: rgb(15, 184, 199);
+    padding: 20px;
+    
+}
+
+.container6 {
+    background-color: rgb(217, 17, 17);
+    padding: 10px;
+    border-radius: 5px;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+}
